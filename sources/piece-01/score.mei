@@ -32,7 +32,7 @@
             <application xml:id="app-musibot-mzk-staff-1">
                <name xml:id="name-3">Musibot mzk-staff 1</name>
             </application>
-            <application xml:id="akztiuo2" startdate="2026-10-01T11:51:12" version="1.6.0" enddate="2026-10-01T11:52:13">
+            <application xml:id="akztiuo2" startdate="2026-10-01T11:51:12" version="1.6.0" enddate="2026-10-01T11:53:36">
                <name xml:id="nsmas2u2">mei-friend</name>
                <p xml:id="pf2xl311">First edit by mei-friend 1.6.0.</p>
             </application>
@@ -192,7 +192,7 @@
                            </layer>
                         </staff>
 <slur xml:id="o1sfbkja" startid="#l6gazem" endid="#u51wpix" />
-                        <slur xml:id="ycczplv" startid="#w122pap8" endid="#n1wlutiq" />
+                  <slur xml:id="ycczplv" endid="#n1wlutiq" startid="#w122pap8" vo="-0.5"/>
                </measure>
                <measure xml:id="measure-2" n="2" facs="#zone-1-2">
 <staff xml:id="staff-4" n="1">
@@ -245,12 +245,12 @@
 <staff xml:id="staff-6" n="3">
                            <layer xml:id="j1yeo15o" n="1">
                               <note xml:id="k17vm7kg" dur="4" dur.ppq="1" oct="4" pname="b" stem.dir="up">
-                                 <accid xml:id="alsedgt2" accid="f"/>
+                                 <accid xml:id="alsedgt2" accid="f" vo="-0.5"/>
                               </note>
                               <note xml:id="n1wlutiq" dur="4" dur.ppq="1" oct="4" pname="a" stem.dir="up">
-                                 <accid xml:id="a1i6kg01" accid="f"/>
+                                 <accid xml:id="a1i6kg01" accid="f" vo="-0.5"/>
                               </note>
-                              <rest xml:id="p13k2uza" dur="2" dur.ppq="2" oloc="3" ploc="b"/>
+                              <rest xml:id="p13k2uza" dur="2" dur.ppq="2" oloc="3" ploc="b" vo="-0.5"/>
                            </layer>
                         </staff>
 <slur xml:id="a1fykwnz" startid="#x1mv9fyc" endid="#g1auijbv" />
@@ -306,12 +306,12 @@
                         </staff>
 <staff xml:id="staff-9" n="3">
                            <layer xml:id="a1kui62c" n="1">
-                              <rest xml:id="bnv9lm8" dur="4" dur.ppq="1" oloc="3" ploc="b"/>
+                              <rest xml:id="bnv9lm8" dur="4" dur.ppq="1" oloc="3" ploc="b" vo="-0.5"/>
                               <note xml:id="cllrt9g" dots="1" dur="2" dur.ppq="3" oct="4" pname="b" stem.dir="up"/>
                            </layer>
                         </staff>
 <slur xml:id="m1a0j8mn" startid="#juzpkcr" endid="#smjrsmx" />
-                        <slur xml:id="e1jcr4wr" startid="#cllrt9g" endid="#q1tpor1e" />
+                  <slur xml:id="e1jcr4wr" endid="#q1tpor1e" startid="#cllrt9g" vo="-0.5"/>
                </measure>
                <measure xml:id="measure-4" n="4" facs="#zone-1-4">
 <staff xml:id="staff-10" n="1">
@@ -367,11 +367,11 @@
                            <layer xml:id="p14v0v6k" n="1">
                               <note xml:id="q1tpor1e" dur="4" dur.ppq="1" oct="4" pname="b" stem.dir="up"/>
                               <note xml:id="t1klqln8" dur="4" dur.ppq="1" oct="4" pname="b" stem.dir="up"/>
-                              <rest xml:id="vzyszmr" dur.ppq="2" dur="2" />
+                              <rest xml:id="vzyszmr" dur="2" dur.ppq="2" vo="-0.5"/>
                               <clef xml:id="g3nr5w9" shape="G" line="2" />
                            </layer>
                         </staff>
-<slur xml:id="s1opqiet" startid="#q1tpor1e" endid="#t1klqln8" />
+                  <slur xml:id="s1opqiet" endid="#t1klqln8" startid="#q1tpor1e" vo="-0.5"/>
                </measure>
                <sb xml:id="sb-1-5" n="1"/>
                <measure xml:id="measure-5" n="5" facs="#zone-1-5">
